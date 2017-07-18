@@ -1,0 +1,17 @@
+{
+  "name": "color-calc",
+  "version": "1.0.0",
+  "description": "Calculate palette colors",
+  "main": "colorCalc.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "Roberto Silva <betorcs@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^10.7.0"
+  },
+  "dependencies": {
+    "tinycolor2": "^1.4.1"
+  }
+}
